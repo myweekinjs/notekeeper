@@ -1,0 +1,6 @@
+export const Black = "#000411"
+export const White = "#FFFFFF"
+export const Primary = "#F0386B"
+export const Secondary = "#0072BB"
+export const Border = "#EEEEEE"
+export const Grey = "#CCCCCC"
